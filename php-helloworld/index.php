@@ -9,10 +9,16 @@ background-image: url('<?php echo $wall_paper;?>');
 background-size: cover;
 background-repeat: no-repeat;
 }
+
+h1 {
+    color: #2ecc71;
+    font-size: 4rem;
+}
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Welcome To Pakainfo.com</title>
+<title>Welcome To OpenShift & Prisma Cloud</title>
 </head>
 <body>
+<h1> WELCOM TO RED HAT OPENSHIFT & PRISMA CLOUDE EVENT </h1>
 </body>
 </html>
