@@ -1,5 +1,6 @@
 <?php
-$wall_paper = "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/redhat-openshift2_0.png?itok=OswexYrH";
+#$wall_paper = "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/redhat-openshift2_0.png?itok=OswexYrH";
+$wall_paper = "https://i.ytimg.com/vi/KLrwrxGSr5g/maxresdefault.jpg";
 ?>
 <html>
 <head>
@@ -17,7 +18,7 @@ h1 {
 }
 h2 {
     color: #FF0000;
-    font-size: 4rem;
+    font-size: 2rem;
     text-align: center;
 }
 </style>
@@ -27,7 +28,6 @@ h2 {
 <body>
 <h1>     WELCOM TO EVENT </h1>
 <h1> OPENSHIFT & PRISMA CLOUD </h1>
-<!-- <h2> OPENSHIFT & PRISMA CLOUD IS PERFECT SOLUTION. LET'S TRY </h2> -->
-<h2> OPENSHIFT & PRISMA CLOUD IS PERFECT SOLUTION. LET'S TRY </h2>
+<!--<h2> THIS IS PERFECT SOLUTION. LET'S TRY !!! </h2> -->
 </body>
 </html>
