@@ -17,7 +17,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    color: #FF0000;
+    color: #2ECC71;
     font-size: 2rem;
     text-align: center;
 }
