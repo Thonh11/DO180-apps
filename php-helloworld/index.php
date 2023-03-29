@@ -6,6 +6,8 @@ $wall_paper = "https://assets.openshift.com/hubfs/Imported_Blog_Media/Logotype_R
 <style type="text/css">
 body {
 background-image: url('<?php echo $wall_paper;?>');
+background-size: cover;
+background-repeat: no-repeat;
 }
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
