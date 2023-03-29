@@ -1,12 +1,16 @@
-<style>
-.background {
-  background-image: url('https://assets.openshift.com/hubfs/Imported_Blog_Media/Logotype_RH_OpenShiftContainerPlatform_wLogo_CMYK_Black.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+<?php
+$wall_paper = "https://assets.openshift.com/hubfs/Imported_Blog_Media/Logotype_RH_OpenShiftContainerPlatform_wLogo_CMYK_Black.jpg";
+?>
+<html>
+<head>
+<style type="text/css">
+body {
+background-image: url('<?php echo $wall_paper;?>');
 }
 </style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Welcome To Pakainfo.com</title>
+</head>
 <body>
-  <div class="background">
-    <!-- your content here -->
-  </div>
 </body>
+</html>
