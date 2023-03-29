@@ -11,14 +11,16 @@ background-repeat: no-repeat;
 }
 
 h1 {
-    color: #2ecc71;
+    color: #FF0000;
     font-size: 4rem;
+    text-align: center;
 }
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Welcome To OpenShift & Prisma Cloud</title>
 </head>
 <body>
-<h1> WELCOM TO RED HAT OPENSHIFT & PRISMA CLOUDE EVENT </h1>
+<h1>     WELCOM TO EVENT </h1>
+<h1> OPENSHIFT & PRISMA CLOUD </h1>
 </body>
 </html>
