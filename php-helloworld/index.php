@@ -12,7 +12,7 @@ background-repeat: no-repeat;
 }
 
 h1 {
-    color: #2ECC71;
+    color: #FF0000;
     font-size: 4rem;
     text-align: center;
 }
@@ -29,5 +29,6 @@ h2 {
 <h1>     WELCOM TO EVENT </h1>
 <h1> OPENSHIFT & PRISMA CLOUD </h1>
 <!--<h2> THIS IS PERFECT SOLUTION. LET'S TRY !!! </h2> -->
+<h2> THIS IS PERFECT SOLUTION. LET'S TRY !!! </h2>
 </body>
 </html>
