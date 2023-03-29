@@ -1,5 +1,5 @@
 <?php
-$wall_paper = "https://assets.openshift.com/hubfs/Imported_Blog_Media/Logotype_RH_OpenShiftContainerPlatform_wLogo_CMYK_Black.jpg";
+$wall_paper = "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/redhat-openshift2_0.png?itok=OswexYrH";
 ?>
 <html>
 <head>
