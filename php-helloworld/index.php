@@ -22,7 +22,7 @@ h2 {
 }
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Welcome To OpenShift & Prisma Cloud</title>
+<title>Welcome To OPENSHIFT & Prisma Cloud</title>
 </head>
 <body>
 <h1>     WELCOME TO EVENT </h1>
